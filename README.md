@@ -2,10 +2,10 @@
 An interactive fractal visualization created using JavaScript and HTML Canvas. The project explores the Mandelbrot Set and Julia Set with custom colors, spiral presets, zooming, panning, and animation.
 
 # Student Information
-Name: Eiman Fatima
-Id 543105
-Class: BSCS-15-D
-AI Lab 01
+Name: Eiman Fatima \
+Id 543105 \
+Class: BSCS-15-D \
+AI Lab 01 \
 
 
 ## Fractal Design
